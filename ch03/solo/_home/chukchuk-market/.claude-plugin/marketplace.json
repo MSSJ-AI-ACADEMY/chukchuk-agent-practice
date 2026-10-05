@@ -1,0 +1,11 @@
+{
+  "name": "chukchuk-market",
+  "owner": { "name": "chukchuk" },
+  "plugins": [
+    {
+      "name": "chukchuk-plugin",
+      "source": "./plugins/chukchuk-plugin",
+      "description": "아침 브리핑 비서 척척 묶음"
+    }
+  ]
+}

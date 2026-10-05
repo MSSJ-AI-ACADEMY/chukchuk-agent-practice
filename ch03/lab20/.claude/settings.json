@@ -1,0 +1,12 @@
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.*)",
+      "Read(./secrets/**)",
+      "Edit(./.env)",
+      "PowerShell(git push *)",
+      "Bash(git push *)",
+      "mcp__files__write_file",
+      "mcp__files__edit_file",
+      "mcp__files__create_directory",
+      "mcp__files__move_file"
+    ]

@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(git add *)",
+      "Bash(git add *)"
+    ],
+    "ask": [
+      "PowerShell(git commit *)",
+      "Bash(git commit *)"
+    ],
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.*)",
+      "Read(./secrets/**)",
+      "Edit(./.env)",
+      "PowerShell(git push *)",
+      "Bash(git push *)",
+      "mcp__files__write_file",
+      "mcp__files__edit_file",
+      "mcp__files__create_directory",
+      "mcp__files__move_file"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python \"${CLAUDE_PROJECT_DIR}/.claude/hooks/log_report.py\""
+          }
+        ]
+      }
+    ]
+  }
+}
