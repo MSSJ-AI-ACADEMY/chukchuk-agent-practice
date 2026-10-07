@@ -5,8 +5,10 @@ description: >-
   reports 폴더에 저장한다. 아침 브리핑, 오늘 브리핑, 메모 정리를
   부탁받았을 때 쓴다.
 allowed-tools: >-
-  Bash(python .claude/skills/morning-brief/scripts/inbox_stats.py),
-  PowerShell(python .claude/skills/morning-brief/scripts/inbox_stats.py)
+  Bash(python
+  .claude/skills/morning-brief/scripts/inbox_stats.py),
+  PowerShell(python
+  .claude/skills/morning-brief/scripts/inbox_stats.py)
 disable-model-invocation: true
 ---
 

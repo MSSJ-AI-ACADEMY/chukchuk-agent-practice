@@ -3,304 +3,252 @@
   "ch": "ch02",
   "lab": "lab14",
   "file": "CLAUDE.md",
-  "section": "02.3/02.3_원고_v0.2.md",
-  "line": 162,
+  "where": "2-3",
   "sha256": "ad18bb6f2caa825b"
  },
  {
   "ch": "ch03",
   "lab": "lab17",
   "file": ".claude/skills/morning-brief/SKILL.md",
-  "section": "03.1/03.1_원고_v0.2.md",
-  "line": 70,
+  "where": "3-1",
   "sha256": "14069285af712efd"
  },
  {
   "ch": "ch03",
   "lab": "lab18",
   "file": ".claude/skills/morning-brief/scripts/inbox_stats.py",
-  "section": "03.1/03.1_원고_v0.2.md",
-  "line": 178,
+  "where": "3-1",
   "sha256": "29a773d9ab0eca9d"
  },
  {
   "ch": "ch03",
   "lab": "lab18",
   "file": ".claude/skills/morning-brief/SKILL.md",
-  "section": "03.1/03.1_원고_v0.2.md",
-  "line": 230,
+  "where": "3-1",
   "sha256": "f2df316452db2619"
  },
  {
   "ch": "ch03",
   "lab": "lab20",
   "file": ".mcp.json",
-  "section": "03.2/03.2_원고_v0.1.md",
-  "line": 147,
+  "where": "3-2",
   "sha256": "b9ce2e88dd46cd4e"
- },
- {
-  "ch": "ch03",
-  "lab": "lab20",
-  "file": ".claude/settings.json",
-  "section": "03.2/03.2_원고_v0.1.md",
-  "line": 187,
-  "sha256": "790fec223d9ab917"
  },
  {
   "ch": "ch03",
   "lab": "lab21",
   "file": ".claude/agents/collector.md",
-  "section": "03.3/03.3_원고_v0.1.md",
-  "line": 56,
+  "where": "3-3",
   "sha256": "2ba6b5a07b4dc110"
  },
  {
   "ch": "ch03",
   "lab": "lab22",
   "file": ".claude/agents/editor.md",
-  "section": "03.3/03.3_원고_v0.1.md",
-  "line": 150,
+  "where": "3-3",
   "sha256": "c2df45e8c3be8f63"
  },
  {
   "ch": "ch03",
   "lab": "lab23",
   "file": ".claude/hooks/log_report.py",
-  "section": "03.4/03.4_원고_v0.1.md",
-  "line": 59,
+  "where": "3-4",
   "sha256": "60bbb12aec9f796d"
  },
  {
   "ch": "ch03",
   "lab": "lab23",
   "file": ".claude/settings.json",
-  "section": "03.4/03.4_원고_v0.1.md",
-  "line": 129,
+  "where": "3-4",
   "sha256": "d7a64aeab172f27a"
  },
  {
   "ch": "ch03",
   "lab": "lab24",
   "file": ".claude/hooks/block_rm.py",
-  "section": "03.4/03.4_원고_v0.1.md",
-  "line": 229,
+  "where": "3-4",
   "sha256": "ab0a6009cf418a45"
  },
  {
   "ch": "ch03",
   "lab": "lab25",
   "file": "chukchuk-plugin/.claude-plugin/plugin.json",
-  "section": "03.4/03.4_원고_v0.1.md",
-  "line": 386,
+  "where": "3-4",
   "sha256": "05659263783558ff"
  },
  {
   "ch": "ch03",
   "lab": "lab25",
   "file": "chukchuk-plugin/hooks/hooks.json",
-  "section": "03.4/03.4_원고_v0.1.md",
-  "line": 409,
+  "where": "3-4",
   "sha256": "de89ecdefe7e1cb2"
  },
  {
   "ch": "ch03",
   "lab": "solo",
   "file": ".claude/skills/morning-brief/references/format.md",
-  "section": "03.9/03.9_원고_v0.1.md",
-  "line": 47,
+  "where": "3장 혼자 해보기",
   "sha256": "34f1d2f2a0fe629f"
  },
  {
   "ch": "ch03",
   "lab": "solo",
   "file": ".claude/skills/morning-brief/SKILL.md",
-  "section": "03.9/03.9_원고_v0.1.md",
-  "line": 81,
-  "sha256": "5a15d4ddd25a12a6"
+  "where": "3장 혼자 해보기",
+  "sha256": "5e5d99f0f196aadb"
  },
  {
   "ch": "ch03",
   "lab": "solo",
   "file": "_home/chukchuk-market/.claude-plugin/marketplace.json",
-  "section": "03.9/03.9_원고_v0.1.md",
-  "line": 210,
+  "where": "3장 혼자 해보기",
   "sha256": "3e6fa3396b60884d"
  },
  {
   "ch": "ch04",
   "lab": "lab27",
   "file": "hello.py",
-  "section": "04.1/04.1_원고_v0.2.md",
-  "line": 131,
+  "where": "4-1",
   "sha256": "790aca2cca943d1f"
  },
  {
   "ch": "ch04",
   "lab": "lab27",
   "file": "hello.py",
-  "section": "04.1/04.1_원고_v0.2.md",
-  "line": 145,
+  "where": "4-1",
   "sha256": "7d3bf6e9a46759b3"
  },
  {
   "ch": "ch04",
   "lab": "lab27",
   "file": "hello.py",
-  "section": "04.1/04.1_원고_v0.2.md",
-  "line": 164,
+  "where": "4-1",
   "sha256": "f22dd669f41dc096"
  },
  {
   "ch": "ch04",
   "lab": "lab27",
   "file": "hello.py",
-  "section": "04.1/04.1_원고_v0.2.md",
-  "line": 180,
+  "where": "4-1",
   "sha256": "08f90c7096246467"
  },
  {
   "ch": "ch04",
   "lab": "lab27",
   "file": "broken.py",
-  "section": "04.1/04.1_원고_v0.2.md",
-  "line": 201,
+  "where": "4-1",
   "sha256": "e58a5ac6016d734a"
  },
  {
   "ch": "ch04",
   "lab": "lab28",
   "file": "hello_chukchuk.py",
-  "section": "04.1/04.1_원고_v0.2.md",
-  "line": 235,
+  "where": "4-1",
   "sha256": "ca21342a9777c0fe"
  },
  {
   "ch": "ch04",
   "lab": "lab29",
   "file": "chukchuk_tools.py",
-  "section": "04.2/04.2_원고_v0.2.md",
-  "line": 57,
+  "where": "4-2",
   "sha256": "f240ff036999ea5f"
  },
  {
   "ch": "ch04",
   "lab": "lab29",
   "file": "tool_check.py",
-  "section": "04.2/04.2_원고_v0.2.md",
-  "line": 136,
+  "where": "4-2",
   "sha256": "0ffbac8cabe91e7d"
  },
  {
   "ch": "ch04",
   "lab": "lab29",
   "file": "tool_test.py",
-  "section": "04.2/04.2_원고_v0.2.md",
-  "line": 187,
+  "where": "4-2",
   "sha256": "044817de541a93eb"
  },
  {
   "ch": "ch04",
   "lab": "lab30",
   "file": "chukchuk.py",
-  "section": "04.2/04.2_원고_v0.2.md",
-  "line": 275,
+  "where": "4-2",
   "sha256": "cea2ddcf3097f0b7"
  },
  {
   "ch": "ch04",
   "lab": "lab31",
   "file": "permission_lab.py",
-  "section": "04.3/04.3_원고_v0.2.md",
-  "line": 61,
+  "where": "4-3",
   "sha256": "1892cddf275b6373"
  },
  {
   "ch": "ch04",
   "lab": "lab31",
   "file": "permission_lab.py",
-  "section": "04.3/04.3_원고_v0.2.md",
-  "line": 170,
+  "where": "4-3",
   "sha256": "4f39c711f5b1862b"
  },
  {
   "ch": "ch04",
   "lab": "lab31",
   "file": "permission_lab.py",
-  "section": "04.3/04.3_원고_v0.2.md",
-  "line": 190,
+  "where": "4-3",
   "sha256": "cd70d2d82bebafe9"
  },
  {
   "ch": "ch04",
   "lab": "lab32",
   "file": "runlog.py",
-  "section": "04.3/04.3_원고_v0.2.md",
-  "line": 280,
+  "where": "4-3",
   "sha256": "1c272be309373037"
  },
  {
   "ch": "ch04",
   "lab": "lab32",
   "file": "session_demo.py",
-  "section": "04.3/04.3_원고_v0.2.md",
-  "line": 390,
+  "where": "4-3",
   "sha256": "68c625b26f4f7075"
  },
  {
   "ch": "ch04",
   "lab": "solo",
   "file": "chukchuk.py",
-  "section": "04.9/04.9_원고_v0.2.md",
-  "line": 56,
+  "where": "4장 혼자 해보기",
   "sha256": "fb0b1a5293c25a0f"
  },
  {
   "ch": "ch04",
   "lab": "solo",
   "file": "report_check.py",
-  "section": "04.9/04.9_원고_v0.2.md",
-  "line": 310,
+  "where": "4장 혼자 해보기",
   "sha256": "51e06e427f285ef7"
  },
  {
   "ch": "ch04",
   "lab": "solo",
   "file": "agent_brief.py",
-  "section": "04.9/04.9_원고_v0.2.md",
-  "line": 395,
+  "where": "4장 혼자 해보기",
   "sha256": "d2eff5e146635556"
- },
- {
-  "ch": "ch05",
-  "lab": "lab36",
-  "file": "_home/.codex/config.toml",
-  "section": "05.2/05.2_원고_v0.2.md",
-  "line": 153,
-  "sha256": "59081b4841ac312d"
  },
  {
   "ch": "ch05",
   "lab": "lab37",
   "file": "run-codex.ps1",
-  "section": "05.3/05.3_원고_v0.2.md",
-  "line": 180,
-  "sha256": "266d1d14d3d67b66"
+  "where": "5-3",
+  "sha256": "f017a652328910db"
  },
  {
   "ch": "ch05",
   "lab": "lab37",
   "file": "hello_codex.py",
-  "section": "05.3/05.3_원고_v0.2.md",
-  "line": 302,
+  "where": "5-3",
   "sha256": "c0267d951fbefa39"
  },
  {
   "ch": "ch05",
   "lab": "lab38",
   "file": "review/checklist.md",
-  "section": "05.3/05.3_원고_v0.2.md",
-  "line": 348,
+  "where": "5-3",
   "sha256": "62ef77a46fca477e"
  }
 ]
